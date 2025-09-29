@@ -1,0 +1,622 @@
+[2022-06-01T15:12:23.290] error: This association 187(account='free', user='lobbeytan', partition='(null)') does not have access to qos long
+[2022-06-01T15:12:48.448] error: This association 194(account='free', user='tingweijing', partition='(null)') does not have access to qos normal
+[2022-06-01T15:12:54.891] error: This association 194(account='free', user='tingweijing', partition='(null)') does not have access to qos long
+[2022-06-01T15:12:58.128] error: This association 186(account='free', user='f4ww4z', partition='(null)') does not have access to qos long
+[2022-06-01T15:13:17.233] error: This association 186(account='free', user='f4ww4z', partition='(null)') does not have access to qos long
+[2022-06-01T15:13:46.163] error: This association 186(account='free', user='f4ww4z', partition='(null)') does not have access to qos long
+[2022-06-01T15:14:31.538] error: This association 186(account='free', user='f4ww4z', partition='(null)') does not have access to qos long
+[2022-06-01T15:14:48.874] error: This association 188(account='free', user='xinpeng', partition='(null)') does not have access to qos normal
+[2022-06-01T15:16:04.455] error: This association 196(account='free', user='aznul', partition='(null)') does not have access to qos long
+[2022-06-01T15:17:06.753] error: This association 196(account='free', user='aznul', partition='(null)') does not have access to qos long
+[2022-06-01T15:23:47.319] error: Invalid qos (sharp)
+[2022-06-01T15:27:07.016] error: This association 199(account='free', user='hass', partition='(null)') does not have access to qos long
+[2022-06-01T15:28:54.640] error: This association 201(account='free', user='liew.wei.shiung', partition='(null)') does not have access to qos long
+[2022-06-01T15:30:18.119] error: This association 201(account='free', user='liew.wei.shiung', partition='(null)') does not have access to qos long
+[2022-06-01T15:31:27.874] error: Security violation, REQUEST_KILL_JOB RPC for JobId=42804 from uid 548300563
+[2022-06-01T15:31:37.672] error: This association 201(account='free', user='liew.wei.shiung', partition='(null)') does not have access to qos long
+[2022-06-01T15:58:03.587] error: This association 187(account='free', user='lobbeytan', partition='(null)') does not have access to qos normal
+[2022-06-01T15:59:44.416] error: This association 187(account='free', user='lobbeytan', partition='(null)') does not have access to qos normal
+[2022-06-02T00:51:16.968] error: This association 191(account='free', user='roland', partition='(null)') does not have access to qos normal
+[2022-06-02T12:45:58.384] error: This association 195(account='free', user='shahreeza', partition='(null)') does not have access to qos normal
+[2022-06-02T12:46:57.620] error: This association 195(account='free', user='shahreeza', partition='(null)') does not have access to qos long
+[2022-06-02T12:54:26.754] error: This association 195(account='free', user='shahreeza', partition='(null)') does not have access to qos long
+[2022-06-02T12:57:08.418] error: This association 195(account='free', user='shahreeza', partition='(null)') does not have access to qos normal
+[2022-06-02T14:54:45.930] error: This association 191(account='free', user='roland', partition='(null)') does not have access to qos normal
+[2022-06-02T14:55:56.416] error: This association 191(account='free', user='roland', partition='(null)') does not have access to qos long
+[2022-06-02T15:30:28.224] error: This association 195(account='free', user='shahreeza', partition='(null)') does not have access to qos normal
+[2022-06-04T14:33:07.389] error: This association 191(account='free', user='roland', partition='(null)') does not have access to qos normal
+[2022-06-05T09:18:49.898] error: Security violation, REQUEST_KILL_JOB RPC for JobId=43012 from uid 548300504
+[2022-06-06T06:39:33.638] error: Security violation, REQUEST_KILL_JOB RPC for JobId=42957 from uid 548200083
+[2022-06-07T10:26:35.028] error: _find_node_record: lookup failure for node "gpu08"
+[2022-06-07T10:26:35.028] error: node_name2bitmap: invalid node specified: "gpu08"
+[2022-06-08T20:07:11.880] error: This association 195(account='free', user='shahreeza', partition='(null)') does not have access to qos normal
+[2022-06-10T17:10:33.466] error: This association 205(account='free', user='janvik', partition='(null)') does not have access to qos normal
+[2022-06-10T17:11:37.090] error: This association 205(account='free', user='janvik', partition='(null)') does not have access to qos normal
+[2022-06-10T17:19:34.455] error: This association 205(account='free', user='janvik', partition='(null)') does not have access to qos normal
+[2022-06-10T19:08:30.272] error: This association 205(account='free', user='janvik', partition='(null)') does not have access to qos normal
+[2022-06-10T19:21:32.833] error: Invalid qos (normal*)
+[2022-06-17T16:32:03.523] error: This association 204(account='free', user='lin0618', partition='(null)') does not have access to qos normal
+[2022-06-17T16:33:43.440] error: Invalid qos (normal*)
+[2022-06-17T21:46:42.810] error: This association 204(account='free', user='lin0618', partition='(null)') does not have access to qos normal
+[2022-06-17T21:47:08.834] error: Invalid qos (normal*)
+[2022-06-17T21:48:05.273] error: Invalid qos (normal*)
+[2022-06-18T12:20:46.849] error: This association 204(account='free', user='lin0618', partition='(null)') does not have access to qos normal
+[2022-06-18T12:33:05.068] error: This association 204(account='free', user='lin0618', partition='(null)') does not have access to qos normal
+[2022-06-19T10:52:24.888] error: Nodes umhpc not responding
+[2022-06-19T10:53:06.067] error: Nodes umhpc not responding, setting DOWN
+[2022-06-19T11:09:26.834] error: Nodes umhpc not responding, setting DOWN
+[2022-06-20T15:59:35.754] error: Nodes umhpc not responding, setting DOWN
+[2022-06-20T16:07:24.564] error: Nodes umhpc not responding
+[2022-06-20T16:07:55.731] error: Nodes umhpc not responding, setting DOWN
+[2022-06-20T17:30:28.036] error: This association 56(account='free', user='fahmi8', partition='(null)') does not have access to qos normal
+[2022-06-20T17:35:10.203] error: _find_node_record: lookup failure for node "@cpu11"
+[2022-06-20T17:35:10.203] error: node_name2bitmap: invalid node specified: "@cpu11"
+[2022-06-20T17:35:35.161] error: _find_node_record: lookup failure for node "vi"
+[2022-06-20T17:35:35.161] error: node_name2bitmap: invalid node specified: "vi"
+[2022-06-23T23:44:51.094] error: Nodes cpu15 not responding, setting DOWN
+[2022-06-24T05:40:11.860] error: Nodes cpu15 not responding, setting DOWN
+[2022-06-24T05:42:11.049] error: Registered PENDING JobId=44827 StepId=44827.batch on node cpu15
+[2022-06-24T05:42:11.049] error: Registered PENDING JobId=44859 StepId=44859.batch on node cpu15
+[2022-06-24T05:42:11.049] error: Registered PENDING JobId=44859 StepId=44859.extern on node cpu15
+[2022-06-24T10:15:37.890] error: slurm_receive_msgs: [[cpu13.dicc.um.edu.my]:6818] failed: Socket timed out on send/recv operation
+[2022-06-24T10:17:25.848] error: Nodes cpu13 not responding
+[2022-06-24T10:41:52.385] error: Prolog launch failure, JobId=44943
+[2022-06-24T10:41:52.406] error: validate_node_specs: Prolog or job env setup failure on node cpu01, draining the node
+[2022-06-25T17:28:03.881] error: This association 14(account='free', user='farhatabjani', partition='(null)') does not have access to qos normal
+[2022-06-25T17:39:04.726] error: This association 14(account='free', user='farhatabjani', partition='(null)') does not have access to qos normal
+[2022-06-25T17:40:02.475] error: This association 14(account='free', user='farhatabjani', partition='(null)') does not have access to qos long
+[2022-07-07T09:45:14.955] error: _find_node_record: lookup failure for node "=cpu10"
+[2022-07-12T00:20:12.600] error: Security violation, REQUEST_KILL_JOB RPC for JobId=45817 from uid 548300504
+[2022-07-12T00:57:49.711] error: Security violation, REQUEST_KILL_JOB RPC for JobId=45817 from uid 548300504
+[2022-07-12T00:58:48.479] error: Security violation, REQUEST_KILL_JOB RPC for JobId=46151 from uid 548300504
+[2022-07-27T23:01:37.684] error: Security violation, REQUEST_KILL_JOB RPC for JobId=46799 from uid 548200021
+[2022-08-03T15:44:59.955] error: _find_node_record: lookup failure for node "cpu09.dicc.um.edu.my"
+[2022-08-03T15:44:59.955] error: node_name2bitmap: invalid node specified: "cpu09.dicc.um.edu.my"
+[2022-08-03T15:44:59.955] error: _find_node_record: lookup failure for node "cpu09.dicc.um.edu.my"
+[2022-08-03T15:44:59.955] error: node_name2bitmap: invalid node specified: "cpu09.dicc.um.edu.my"
+[2022-08-03T15:57:57.161] error: _find_node_record: lookup failure for node "cpu09.dicc.um.edu.my"
+[2022-08-03T15:57:57.161] error: node_name2bitmap: invalid node specified: "cpu09.dicc.um.edu.my"
+[2022-08-03T15:57:58.054] error: _find_node_record: lookup failure for node "cpu10.dicc.um.edu.my"
+[2022-08-03T15:57:58.054] error: node_name2bitmap: invalid node specified: "cpu10.dicc.um.edu.my"
+[2022-08-04T11:24:12.193] error: _find_node_record: lookup failure for node "cpu03.dicc.um.edu.my"
+[2022-08-04T11:24:12.193] error: node_name2bitmap: invalid node specified: "cpu03.dicc.um.edu.my"
+[2022-08-04T11:26:07.386] error: _find_node_record: lookup failure for node "cpu12.dicc.um.edu.my"
+[2022-08-04T11:26:07.386] error: node_name2bitmap: invalid node specified: "cpu12.dicc.um.edu.my"
+[2022-08-04T11:26:07.386] error: _find_node_record: lookup failure for node "cpu13.dicc.um.edu.my"
+[2022-08-04T11:26:07.386] error: node_name2bitmap: invalid node specified: "cpu13.dicc.um.edu.my"
+[2022-08-04T11:26:42.373] error: _find_node_record: lookup failure for node "cpu12.dicc.um.edu.my"
+[2022-08-04T11:26:42.373] error: node_name2bitmap: invalid node specified: "cpu12.dicc.um.edu.my"
+[2022-08-04T11:26:42.373] error: _find_node_record: lookup failure for node "cpu13.dicc.um.edu.my"
+[2022-08-04T11:26:42.373] error: node_name2bitmap: invalid node specified: "cpu13.dicc.um.edu.my"
+[2022-08-04T11:27:00.403] error: _find_node_record: lookup failure for node "cpu12.dicc.um.edu.my"
+[2022-08-04T11:27:00.403] error: node_name2bitmap: invalid node specified: "cpu12.dicc.um.edu.my"
+[2022-08-04T11:27:00.403] error: _find_node_record: lookup failure for node "cpu13.dicc.um.edu.my"
+[2022-08-04T11:27:00.404] error: node_name2bitmap: invalid node specified: "cpu13.dicc.um.edu.my"
+[2022-08-04T11:27:52.552] error: _find_node_record: lookup failure for node "cpu12.dicc.um.edu.my"
+[2022-08-04T11:27:52.552] error: node_name2bitmap: invalid node specified: "cpu12.dicc.um.edu.my"
+[2022-08-04T11:28:30.602] error: _find_node_record: lookup failure for node "cpu12.dicc.um.edu.my"
+[2022-08-04T11:28:30.602] error: node_name2bitmap: invalid node specified: "cpu12.dicc.um.edu.my"
+[2022-08-04T11:28:58.780] error: _find_node_record: lookup failure for node "cpu12.dicc.um.edu.my"
+[2022-08-04T11:28:58.780] error: node_name2bitmap: invalid node specified: "cpu12.dicc.um.edu.my"
+[2022-08-04T11:29:16.788] error: _find_node_record: lookup failure for node "cpu12.dicc.um.edu.my"
+[2022-08-04T11:29:16.788] error: node_name2bitmap: invalid node specified: "cpu12.dicc.um.edu.my"
+[2022-08-04T11:29:16.788] error: _find_node_record: lookup failure for node "cpu13.dicc.um.edu.my"
+[2022-08-04T11:29:16.788] error: node_name2bitmap: invalid node specified: "cpu13.dicc.um.edu.my"
+[2022-08-04T11:29:50.743] error: _find_node_record: lookup failure for node "cpu12.dicc.um.edu.my"
+[2022-08-04T11:29:50.743] error: node_name2bitmap: invalid node specified: "cpu12.dicc.um.edu.my"
+[2022-08-04T11:29:50.743] error: _find_node_record: lookup failure for node "cpu13.dicc.um.edu.my"
+[2022-08-04T11:29:50.743] error: node_name2bitmap: invalid node specified: "cpu13.dicc.um.edu.my"
+[2022-08-04T11:31:10.872] error: _find_node_record: lookup failure for node "cpu12.dicc.um.edu.my"
+[2022-08-04T11:31:10.872] error: node_name2bitmap: invalid node specified: "cpu12.dicc.um.edu.my"
+[2022-08-04T11:31:10.872] error: _find_node_record: lookup failure for node "cpu13.dicc.um.edu.my"
+[2022-08-04T11:31:10.872] error: node_name2bitmap: invalid node specified: "cpu13.dicc.um.edu.my"
+[2022-08-04T14:08:25.539] error: _find_node_record: lookup failure for node "cpu12.dicc.um.edu.my"
+[2022-08-04T14:08:25.539] error: node_name2bitmap: invalid node specified: "cpu12.dicc.um.edu.my"
+[2022-08-04T14:08:25.539] error: _find_node_record: lookup failure for node "cpu13.dicc.um.edu.my"
+[2022-08-04T14:08:25.539] error: node_name2bitmap: invalid node specified: "cpu13.dicc.um.edu.my"
+[2022-08-04T14:08:25.539] error: _find_node_record: lookup failure for node "cpu14.dicc.um.edu.my"
+[2022-08-04T14:08:25.539] error: node_name2bitmap: invalid node specified: "cpu14.dicc.um.edu.my"
+[2022-08-04T14:08:25.539] error: _find_node_record: lookup failure for node "cpu15.dicc.um.edu.my"
+[2022-08-04T14:08:25.539] error: node_name2bitmap: invalid node specified: "cpu15.dicc.um.edu.my"
+[2022-08-04T14:11:29.769] error: _find_node_record: lookup failure for node "cpu12.dicc.um.edu.my"
+[2022-08-04T14:11:29.769] error: node_name2bitmap: invalid node specified: "cpu12.dicc.um.edu.my"
+[2022-08-04T14:11:29.769] error: _find_node_record: lookup failure for node "cpu13.dicc.um.edu.my"
+[2022-08-04T14:11:29.769] error: node_name2bitmap: invalid node specified: "cpu13.dicc.um.edu.my"
+[2022-08-04T14:11:29.769] error: _find_node_record: lookup failure for node "cpu14.dicc.um.edu.my"
+[2022-08-04T14:11:29.769] error: node_name2bitmap: invalid node specified: "cpu14.dicc.um.edu.my"
+[2022-08-04T14:11:29.769] error: _find_node_record: lookup failure for node "cpu15.dicc.um.edu.my"
+[2022-08-04T14:11:29.769] error: node_name2bitmap: invalid node specified: "cpu15.dicc.um.edu.my"
+[2022-08-04T14:24:02.267] error: _find_node_record: lookup failure for node "cpu12.dicc.um.edu.my"
+[2022-08-04T14:24:02.267] error: node_name2bitmap: invalid node specified: "cpu12.dicc.um.edu.my"
+[2022-08-04T14:24:02.267] error: _find_node_record: lookup failure for node "cpu13.dicc.um.edu.my"
+[2022-08-04T14:24:02.267] error: node_name2bitmap: invalid node specified: "cpu13.dicc.um.edu.my"
+[2022-08-04T14:24:02.267] error: _find_node_record: lookup failure for node "cpu14.dicc.um.edu.my"
+[2022-08-04T14:24:02.267] error: node_name2bitmap: invalid node specified: "cpu14.dicc.um.edu.my"
+[2022-08-04T14:24:02.267] error: _find_node_record: lookup failure for node "cpu15.dicc.um.edu.my"
+[2022-08-04T14:24:02.267] error: node_name2bitmap: invalid node specified: "cpu15.dicc.um.edu.my"
+[2022-08-04T14:25:35.758] error: _find_node_record: lookup failure for node "cpu12.dicc.um.edu.my"
+[2022-08-04T14:25:35.758] error: node_name2bitmap: invalid node specified: "cpu12.dicc.um.edu.my"
+[2022-08-04T14:25:35.758] error: _find_node_record: lookup failure for node "cpu13.dicc.um.edu.my"
+[2022-08-04T14:25:35.758] error: node_name2bitmap: invalid node specified: "cpu13.dicc.um.edu.my"
+[2022-08-04T14:25:35.758] error: _find_node_record: lookup failure for node "cpu14.dicc.um.edu.my"
+[2022-08-04T14:25:35.758] error: node_name2bitmap: invalid node specified: "cpu14.dicc.um.edu.my"
+[2022-08-04T14:25:35.758] error: _find_node_record: lookup failure for node "cpu15.dicc.um.edu.my"
+[2022-08-04T14:25:35.758] error: node_name2bitmap: invalid node specified: "cpu15.dicc.um.edu.my"
+[2022-08-04T14:25:35.758] error: _find_node_record: lookup failure for node "cpu12.dicc.um.edu.my"
+[2022-08-04T14:25:35.758] error: node_name2bitmap: invalid node specified: "cpu12.dicc.um.edu.my"
+[2022-08-04T14:25:35.758] error: _find_node_record: lookup failure for node "cpu13.dicc.um.edu.my"
+[2022-08-04T14:25:35.758] error: node_name2bitmap: invalid node specified: "cpu13.dicc.um.edu.my"
+[2022-08-04T14:25:35.758] error: _find_node_record: lookup failure for node "cpu14.dicc.um.edu.my"
+[2022-08-04T14:25:35.758] error: node_name2bitmap: invalid node specified: "cpu14.dicc.um.edu.my"
+[2022-08-04T14:25:35.758] error: _find_node_record: lookup failure for node "cpu15.dicc.um.edu.my"
+[2022-08-04T14:25:35.758] error: node_name2bitmap: invalid node specified: "cpu15.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: _find_node_record: lookup failure for node "cpu12.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: node_name2bitmap: invalid node specified: "cpu12.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: _find_node_record: lookup failure for node "cpu13.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: node_name2bitmap: invalid node specified: "cpu13.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: _find_node_record: lookup failure for node "cpu14.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: node_name2bitmap: invalid node specified: "cpu14.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: _find_node_record: lookup failure for node "cpu15.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: node_name2bitmap: invalid node specified: "cpu15.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: _find_node_record: lookup failure for node "cpu12.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: node_name2bitmap: invalid node specified: "cpu12.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: _find_node_record: lookup failure for node "cpu13.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: node_name2bitmap: invalid node specified: "cpu13.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: _find_node_record: lookup failure for node "cpu14.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: node_name2bitmap: invalid node specified: "cpu14.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: _find_node_record: lookup failure for node "cpu15.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: node_name2bitmap: invalid node specified: "cpu15.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: _find_node_record: lookup failure for node "cpu12.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: node_name2bitmap: invalid node specified: "cpu12.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: _find_node_record: lookup failure for node "cpu13.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: node_name2bitmap: invalid node specified: "cpu13.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: _find_node_record: lookup failure for node "cpu14.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: node_name2bitmap: invalid node specified: "cpu14.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: _find_node_record: lookup failure for node "cpu15.dicc.um.edu.my"
+[2022-08-04T14:25:35.928] error: node_name2bitmap: invalid node specified: "cpu15.dicc.um.edu.my"
+[2022-08-04T14:25:35.937] error: _find_node_record: lookup failure for node "cpu12.dicc.um.edu.my"
+[2022-08-04T14:25:35.938] error: node_name2bitmap: invalid node specified: "cpu12.dicc.um.edu.my"
+[2022-08-04T14:25:35.938] error: _find_node_record: lookup failure for node "cpu13.dicc.um.edu.my"
+[2022-08-04T14:25:35.938] error: node_name2bitmap: invalid node specified: "cpu13.dicc.um.edu.my"
+[2022-08-04T14:25:35.938] error: _find_node_record: lookup failure for node "cpu14.dicc.um.edu.my"
+[2022-08-04T14:25:35.938] error: node_name2bitmap: invalid node specified: "cpu14.dicc.um.edu.my"
+[2022-08-04T14:25:35.938] error: _find_node_record: lookup failure for node "cpu15.dicc.um.edu.my"
+[2022-08-04T14:25:35.938] error: node_name2bitmap: invalid node specified: "cpu15.dicc.um.edu.my"
+[2022-08-10T10:47:24.433] error: This association 228(account='free', user='kurk', partition='(null)') does not have access to qos normal
+[2022-08-10T14:50:56.603] error: This association 222(account='free', user='fairus', partition='(null)') does not have access to qos normal
+[2022-08-10T14:51:27.474] error: This association 222(account='free', user='fairus', partition='(null)') does not have access to qos normal
+[2022-08-10T14:51:28.777] error: This association 221(account='free', user='manoj', partition='(null)') does not have access to qos normal
+[2022-08-10T14:51:46.260] error: This association 221(account='free', user='manoj', partition='(null)') does not have access to qos normal
+[2022-08-10T14:51:48.256] error: This association 222(account='free', user='fairus', partition='(null)') does not have access to qos normal
+[2022-08-10T14:59:29.129] error: This association 221(account='free', user='manoj', partition='(null)') does not have access to qos normal
+[2022-08-10T15:10:47.841] error: This association 221(account='free', user='manoj', partition='(null)') does not have access to qos normal
+[2022-08-11T20:14:17.551] error: SECURITY VIOLATION: Attempt to suspend job from user 548200045
+[2022-08-12T17:35:28.618] error: slurm_receive_msg [10.11.132.14:59824]: Zero Bytes were transmitted or received
+[2022-08-12T17:35:28.824] error: slurm_receive_msg [10.11.132.14:59828]: Zero Bytes were transmitted or received
+[2022-08-12T17:38:51.193] error: slurm_receive_msg [10.11.132.18:60668]: Zero Bytes were transmitted or received
+[2022-08-12T17:42:46.536] error: slurm_receive_msg [10.11.132.21:49448]: Zero Bytes were transmitted or received
+[2022-08-12T17:43:36.021] error: slurm_receive_msg [10.11.132.23:33480]: Zero Bytes were transmitted or received
+[2022-08-13T14:29:54.530] error: This association 43(account='free', user='han', partition='(null)') does not have access to qos long
+[2022-08-13T14:30:08.478] error: This association 43(account='free', user='han', partition='(null)') does not have access to qos normal
+[2022-08-13T14:30:14.749] error: This association 43(account='free', user='han', partition='(null)') does not have access to qos normal
+[2022-08-13T14:44:59.131] error: This association 43(account='free', user='han', partition='(null)') does not have access to qos long
+[2022-08-14T07:56:26.519] error: This association 43(account='free', user='han', partition='(null)') does not have access to qos normal
+[2022-08-15T08:39:17.056] error: Invalid qos (quick)
+[2022-08-15T23:52:18.083] error: This association 222(account='free', user='fairus', partition='(null)') does not have access to qos normal
+[2022-08-15T23:53:52.873] error: This association 222(account='free', user='fairus', partition='(null)') does not have access to qos normal
+[2022-08-15T23:54:08.508] error: This association 222(account='free', user='fairus', partition='(null)') does not have access to qos normal
+[2022-08-15T23:54:46.374] error: This association 222(account='free', user='fairus', partition='(null)') does not have access to qos normal
+[2022-08-23T16:04:58.951] error: This association 43(account='free', user='han', partition='(null)') does not have access to qos normal
+[2022-08-23T16:11:57.033] error: This association 43(account='free', user='han', partition='(null)') does not have access to qos normal
+[2022-08-23T16:12:52.314] error: This association 43(account='free', user='han', partition='(null)') does not have access to qos normal
+[2022-08-23T19:39:42.004] error: slurm_msg_sendto: address:port=10.11.132.22:52678 msg_type=8001: No error
+[2022-08-23T19:39:42.005] error: slurmd error running JobId=48294 on node(s)=cpu12: Kill task failed
+[2022-08-24T17:10:29.685] error: This association 238(account='free', user='aah', partition='(null)') does not have access to qos long
+[2022-08-24T17:12:57.908] error: This association 238(account='free', user='aah', partition='(null)') does not have access to qos long
+[2022-08-24T17:13:55.128] error: This association 238(account='free', user='aah', partition='(null)') does not have access to qos normal
+[2022-08-24T17:15:12.812] error: This association 238(account='free', user='aah', partition='(null)') does not have access to qos normal
+[2022-08-24T17:16:17.242] error: This association 238(account='free', user='aah', partition='(null)') does not have access to qos normal
+[2022-08-24T17:32:56.343] error: This association 238(account='free', user='aah', partition='(null)') does not have access to qos normal
+[2022-08-24T17:41:56.791] error: This association 238(account='free', user='aah', partition='(null)') does not have access to qos normal
+[2022-08-24T17:42:27.050] error: This association 238(account='free', user='aah', partition='(null)') does not have access to qos normal
+[2022-08-24T17:45:26.233] error: This association 238(account='free', user='aah', partition='(null)') does not have access to qos normal
+[2022-08-24T17:46:34.256] error: This association 238(account='free', user='aah', partition='(null)') does not have access to qos normal
+[2022-08-24T21:22:27.324] error: This association 238(account='free', user='aah', partition='(null)') does not have access to qos normal
+[2022-08-25T15:12:09.621] error: _handle_assoc_tres_run_secs: job 48304: assoc 19 TRES node grp_used_tres_run_secs underflow, tried to remove 300 seconds when only 0 remained.
+[2022-08-25T15:12:09.621] error: _handle_assoc_tres_run_secs: job 48327: assoc 19 TRES node grp_used_tres_run_secs underflow, tried to remove 300 seconds when only 0 remained.
+[2022-08-25T15:12:09.621] error: _handle_assoc_tres_run_secs: job 48329: assoc 19 TRES node grp_used_tres_run_secs underflow, tried to remove 300 seconds when only 0 remained.
+[2022-08-25T15:17:09.621] error: _handle_assoc_tres_run_secs: job 48304: assoc 19 TRES cpu grp_used_tres_run_secs underflow, tried to remove 19200 seconds when only 0 remained.
+[2022-08-25T15:17:09.621] error: _handle_assoc_tres_run_secs: job 48304: assoc 19 TRES mem grp_used_tres_run_secs underflow, tried to remove 5529600 seconds when only 0 remained.
+[2022-08-25T15:17:09.621] error: _handle_assoc_tres_run_secs: job 48304: assoc 19 TRES node grp_used_tres_run_secs underflow, tried to remove 300 seconds when only 0 remained.
+[2022-08-25T15:17:09.621] error: _handle_assoc_tres_run_secs: job 48304: assoc 19 TRES billing grp_used_tres_run_secs underflow, tried to remove 4800000 seconds when only 0 remained.
+[2022-08-25T15:17:09.621] error: _handle_assoc_tres_run_secs: job 48327: assoc 19 TRES cpu grp_used_tres_run_secs underflow, tried to remove 7200 seconds when only 0 remained.
+[2022-08-25T15:17:09.621] error: _handle_assoc_tres_run_secs: job 48327: assoc 19 TRES mem grp_used_tres_run_secs underflow, tried to remove 3686400 seconds when only 0 remained.
+[2022-08-25T15:17:09.621] error: _handle_assoc_tres_run_secs: job 48327: assoc 19 TRES node grp_used_tres_run_secs underflow, tried to remove 300 seconds when only 0 remained.
+[2022-08-25T15:17:09.621] error: _handle_assoc_tres_run_secs: job 48327: assoc 19 TRES billing grp_used_tres_run_secs underflow, tried to remove 1800000 seconds when only 0 remained.
+[2022-08-25T15:17:09.621] error: _handle_assoc_tres_run_secs: job 48329: assoc 19 TRES cpu grp_used_tres_run_secs underflow, tried to remove 7200 seconds when only 0 remained.
+[2022-08-25T15:17:09.621] error: _handle_assoc_tres_run_secs: job 48329: assoc 19 TRES mem grp_used_tres_run_secs underflow, tried to remove 3686400 seconds when only 0 remained.
+[2022-08-25T15:17:09.621] error: _handle_assoc_tres_run_secs: job 48329: assoc 19 TRES node grp_used_tres_run_secs underflow, tried to remove 300 seconds when only 0 remained.
+[2022-08-25T15:17:09.621] error: _handle_assoc_tres_run_secs: job 48329: assoc 19 TRES billing grp_used_tres_run_secs underflow, tried to remove 1800000 seconds when only 0 remained.
+[2022-08-25T15:32:28.326] error: This association 238(account='free', user='aah', partition='(null)') does not have access to qos normal
+[2022-08-26T00:05:39.709] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos long
+[2022-08-26T00:07:17.188] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos normal
+[2022-08-26T00:09:10.381] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos normal
+[2022-08-26T00:09:18.876] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos long
+[2022-08-26T00:13:05.043] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos NORMAL
+[2022-08-26T00:23:56.360] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos normal
+[2022-08-26T00:24:35.855] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos normal
+[2022-08-26T00:29:45.524] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos normal
+[2022-08-26T00:31:11.127] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos long
+[2022-08-26T00:31:36.791] error: Invalid qos (normal*)
+[2022-08-26T00:31:46.974] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos normal
+[2022-08-26T00:38:15.580] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos normal
+[2022-08-26T00:40:56.325] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos normal
+[2022-08-26T01:04:11.056] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos normal
+[2022-08-26T01:05:21.835] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos normal
+[2022-08-26T01:14:40.340] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos normal
+[2022-08-26T01:15:32.437] error: Invalid qos (qos)
+[2022-08-26T01:18:09.714] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos long
+[2022-08-26T01:18:45.483] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos extended
+[2022-08-26T01:19:23.065] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos long
+[2022-08-26T01:20:04.584] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos normal
+[2022-08-26T01:20:52.088] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos normal
+[2022-08-26T01:40:47.721] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos normal
+[2022-08-26T01:41:10.529] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos long
+[2022-08-26T01:45:06.338] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos long
+[2022-08-26T09:49:26.278] error: This association 211(account='free', user='mk_98', partition='(null)') does not have access to qos long
+[2022-09-05T12:18:15.836] error: This association 234(account='free', user='hva170037', partition='(null)') does not have access to qos normal
+[2022-09-05T12:18:55.798] error: This association 234(account='free', user='hva170037', partition='(null)') does not have access to qos normal
+[2022-09-05T12:23:04.951] error: Invalid qos (general-compute)
+[2022-09-05T12:25:03.955] error: Invalid qos (cpu-epyc)
+[2022-09-05T12:27:06.647] error: Invalid qos (normal*)
+[2022-09-05T12:28:15.502] error: This association 234(account='free', user='hva170037', partition='(null)') does not have access to qos long
+[2022-09-05T12:33:15.973] error: This association 234(account='free', user='hva170037', partition='(null)') does not have access to qos long
+[2022-09-05T12:47:07.447] error: This association 234(account='free', user='hva170037', partition='(null)') does not have access to qos normal
+[2022-09-07T11:43:33.733] error: This association 43(account='free', user='han', partition='(null)') does not have access to qos normal
+[2022-09-07T11:43:58.475] error: This association 43(account='free', user='han', partition='(null)') does not have access to qos normal
+[2022-09-07T16:10:37.192] error: This association 43(account='free', user='han', partition='(null)') does not have access to qos normal
+[2022-09-21T14:53:22.699] error: This association 212(account='free', user='yatyuen.lim', partition='(null)') does not have access to qos long
+[2022-09-22T13:05:01.768] error: Nodes cpu12 not responding, setting DOWN
+[2022-09-22T14:00:09.365] error: Configured cpu count change on cpu07 (64 to 32)
+[2022-09-22T14:00:09.368] error: _slurm_rpc_reconfigure_controller: The node configuration changes that were made require restart of the slurmctld daemon to take effect
+[2022-09-22T14:00:25.570] error: Node cpu07 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-09-22T14:00:25.571] error: Node cpu03 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-09-22T14:00:25.571] error: Node cpu13 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-09-22T14:00:25.571] error: Node cpu12 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-09-22T14:00:25.572] error: Node cpu01 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-09-22T14:00:25.572] error: Node cpu05 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-09-22T14:00:25.573] error: Node cpu09 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-09-22T14:00:25.573] error: Node cpu14 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-09-22T14:00:25.573] error: Node cpu15 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-09-22T14:00:25.573] error: Node cpu10 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-09-22T14:00:25.573] error: Node cpu11 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-09-22T14:00:25.573] error: Node gpu01 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-09-22T14:00:25.574] error: Node gpu03 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-09-22T14:00:25.574] error: Node cpu04 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-09-22T14:00:25.574] error: Node gpu02 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-09-22T14:00:25.575] error: Node gpu05 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-09-22T14:00:25.575] error: Node gpu04 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-09-22T14:00:25.576] error: Node cpu08 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-09-22T14:01:56.125] error: slurmd error running JobId=49477 on node(s)=cpu07: Slurmd could not execve job
+[2022-09-22T14:04:15.087] error: slurmd error running JobId=49477 on node(s)=cpu07: Slurmd could not execve job
+[2022-09-22T14:05:50.707] error: valid_job_resources: cpu07 sockets:8,4, cores 8,8
+[2022-09-22T14:05:50.707] error: Aborting JobId=49477 due to change in socket/core configuration of allocated nodes
+[2022-09-22T14:06:59.337] error: slurmd error running JobId=49480 on node(s)=cpu07: Slurmd could not execve job
+[2022-09-22T14:10:43.400] error: Nodes cpu07 not responding, setting DOWN
+[2022-09-23T11:50:01.529] error: Nodes umhpc not responding, setting DOWN
+[2022-09-23T23:52:35.651] error: slurm_receive_msgs: [[cpu15.dicc.um.edu.my]:6818] failed: Socket timed out on send/recv operation
+[2022-09-23T23:52:44.666] error: Nodes cpu15 not responding, setting DOWN
+[2022-09-23T23:52:54.678] error: slurm_receive_msgs: [[cpu15.dicc.um.edu.my]:6818] failed: Socket timed out on send/recv operation
+[2022-09-23T23:59:05.083] error: slurm_receive_msgs: [[cpu15.dicc.um.edu.my]:6818] failed: Socket timed out on send/recv operation
+[2022-09-24T00:00:53.413] error: Nodes cpu15 not responding
+[2022-09-24T00:01:51.717] error: slurm_receive_msg [10.11.132.25:56376]: Socket timed out on send/recv operation
+[2022-09-24T00:09:27.717] error: slurm_receive_msg [10.11.132.25:56386]: Socket timed out on send/recv operation
+[2022-09-24T00:44:54.240] error: slurm_receive_msgs: [[cpu15.dicc.um.edu.my]:6818] failed: Socket timed out on send/recv operation
+[2022-09-24T00:45:53.318] error: Nodes cpu15 not responding
+[2022-09-24T01:11:43.907] error: slurm_receive_msg [10.11.132.25:56452]: Socket timed out on send/recv operation
+[2022-09-24T01:28:30.651] error: slurm_receive_msg [10.11.132.25:56464]: Socket timed out on send/recv operation
+[2022-09-24T01:28:32.647] error: slurm_receive_msg [10.11.132.25:56468]: Socket timed out on send/recv operation
+[2022-09-24T02:37:22.374] error: slurm_receive_msg [10.11.132.25:56532]: Socket timed out on send/recv operation
+[2022-09-24T02:37:22.374] error: slurm_receive_msg [10.11.132.25:56534]: Socket timed out on send/recv operation
+[2022-09-24T02:37:24.379] error: slurm_receive_msg [10.11.132.25:56542]: Socket timed out on send/recv operation
+[2022-09-24T02:37:24.379] error: slurm_receive_msg [10.11.132.25:56540]: Socket timed out on send/recv operation
+[2022-09-24T02:37:24.380] error: slurm_receive_msg [10.11.132.25:56538]: Socket timed out on send/recv operation
+[2022-09-24T02:37:26.372] error: slurm_receive_msg [10.11.132.25:56544]: Socket timed out on send/recv operation
+[2022-09-24T02:43:07.369] error: slurm_receive_msg [10.11.132.25:56546]: Socket timed out on send/recv operation
+[2022-09-24T02:49:40.892] error: slurm_receive_msg [10.11.132.25:56554]: Socket timed out on send/recv operation
+[2022-09-24T02:55:37.499] error: slurm_receive_msg [10.11.132.25:56564]: Socket timed out on send/recv operation
+[2022-09-24T02:55:39.502] error: slurm_receive_msg [10.11.132.25:56570]: Socket timed out on send/recv operation
+[2022-09-24T02:56:02.521] error: slurm_receive_msg [10.11.132.25:56572]: Socket timed out on send/recv operation
+[2022-09-24T03:02:25.770] error: slurm_receive_msg [10.11.132.25:56576]: Socket timed out on send/recv operation
+[2022-09-24T03:08:43.080] error: slurm_receive_msg [10.11.132.25:56588]: Socket timed out on send/recv operation
+[2022-09-24T03:08:45.085] error: slurm_receive_msg [10.11.132.25:56590]: Socket timed out on send/recv operation
+[2022-09-24T03:39:07.353] error: slurm_receive_msg [10.11.132.25:56634]: Socket timed out on send/recv operation
+[2022-09-24T04:52:15.380] error: slurm_receive_msg [10.11.132.25:56734]: Socket timed out on send/recv operation
+[2022-09-24T05:02:54.197] error: slurm_receive_msg [10.11.132.25:56739]: Socket timed out on send/recv operation
+[2022-09-24T05:02:56.199] error: slurm_receive_msg [10.11.132.25:56742]: Socket timed out on send/recv operation
+[2022-09-24T05:13:52.365] error: slurm_receive_msg [10.11.132.25:56754]: Socket timed out on send/recv operation
+[2022-09-24T05:14:05.368] error: slurm_receive_msg [10.11.132.25:56758]: Socket timed out on send/recv operation
+[2022-09-24T05:23:47.716] error: slurm_receive_msg [10.11.132.25:56770]: Socket timed out on send/recv operation
+[2022-09-24T05:41:18.534] error: slurm_receive_msg [10.11.132.25:56782]: Socket timed out on send/recv operation
+[2022-09-24T05:41:20.539] error: slurm_receive_msg [10.11.132.25:56784]: Socket timed out on send/recv operation
+[2022-09-24T05:45:56.135] error: slurm_receive_msg [10.11.132.25:56790]: Socket timed out on send/recv operation
+[2022-09-24T05:51:49.892] error: slurm_receive_msg [10.11.132.25:56800]: Socket timed out on send/recv operation
+[2022-09-24T05:51:51.895] error: slurm_receive_msg [10.11.132.25:56804]: Socket timed out on send/recv operation
+[2022-09-24T06:55:04.191] error: slurm_receive_msg [10.11.132.25:56882]: Socket timed out on send/recv operation
+[2022-09-24T06:55:21.188] error: slurm_receive_msg [10.11.132.25:56886]: Socket timed out on send/recv operation
+[2022-09-24T08:10:47.993] error: slurm_receive_msg [10.11.132.25:56962]: Socket timed out on send/recv operation
+[2022-09-24T08:11:23.024] error: slurm_receive_msg [10.11.132.25:56964]: Socket timed out on send/recv operation
+[2022-09-24T09:44:36.278] error: slurm_receive_msg [10.11.132.25:57020]: Socket timed out on send/recv operation
+[2022-09-24T09:44:38.281] error: slurm_receive_msg [10.11.132.25:57024]: Socket timed out on send/recv operation
+[2022-09-24T09:44:38.281] error: slurm_receive_msg [10.11.132.25:57028]: Socket timed out on send/recv operation
+[2022-09-24T10:05:27.416] error: slurm_receive_msg [10.11.132.25:57050]: Socket timed out on send/recv operation
+[2022-09-24T10:05:43.429] error: slurm_receive_msg [10.11.132.25:57054]: Socket timed out on send/recv operation
+[2022-09-24T10:16:29.664] error: slurm_receive_msg [10.11.132.25:57056]: Socket timed out on send/recv operation
+[2022-09-24T10:16:35.671] error: slurm_receive_msg [10.11.132.25:57060]: Socket timed out on send/recv operation
+[2022-09-24T10:25:21.285] error: slurm_receive_msg [10.11.132.25:57072]: Socket timed out on send/recv operation
+[2022-09-24T10:25:38.297] error: slurm_receive_msg [10.11.132.25:57076]: Socket timed out on send/recv operation
+[2022-09-24T10:43:27.916] error: slurm_receive_msg [10.11.132.25:57086]: Socket timed out on send/recv operation
+[2022-09-24T10:43:29.920] error: slurm_receive_msg [10.11.132.25:57090]: Socket timed out on send/recv operation
+[2022-09-24T11:21:12.049] error: slurm_receive_msg [10.11.132.25:57122]: Socket timed out on send/recv operation
+[2022-09-24T11:21:14.051] error: slurm_receive_msg [10.11.132.25:57124]: Socket timed out on send/recv operation
+[2022-09-24T11:28:11.826] error: slurm_receive_msg [10.11.132.25:57130]: Socket timed out on send/recv operation
+[2022-09-24T11:28:26.835] error: slurm_receive_msg [10.11.132.25:57132]: Socket timed out on send/recv operation
+[2022-09-24T11:37:28.876] error: slurm_receive_msg [10.11.132.25:57144]: Socket timed out on send/recv operation
+[2022-09-24T12:13:12.643] error: slurm_receive_msgs: [[cpu12.dicc.um.edu.my]:6818] failed: Socket timed out on send/recv operation
+[2022-09-24T12:15:53.795] error: Nodes cpu12 not responding
+[2022-09-24T12:17:27.027] error: Nodes cpu12 not responding, setting DOWN
+[2022-09-24T12:19:27.192] error: Nodes cpu15 not responding, setting DOWN
+[2022-09-24T20:22:22.414] error: slurm_receive_msg [10.11.132.22:60982]: Socket timed out on send/recv operation
+[2022-09-24T23:09:41.446] error: slurm_receive_msgs: [[cpu12.dicc.um.edu.my]:6818] failed: Socket timed out on send/recv operation
+[2022-09-24T23:10:54.371] error: Nodes cpu12 not responding
+[2022-09-24T23:13:30.693] error: Nodes cpu12 not responding, setting DOWN
+[2022-09-27T14:40:00.633] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:40:00.633] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:41:00.635] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:41:00.635] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:42:00.636] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:42:00.636] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:43:00.637] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:43:00.637] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:44:00.638] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:44:00.638] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:45:00.639] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:45:00.640] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:46:00.641] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:46:00.641] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:47:00.642] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:47:00.642] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:48:00.643] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:48:00.643] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:49:00.644] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:49:00.645] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:50:00.662] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:50:00.662] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:51:00.663] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:51:00.663] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:52:00.664] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:52:00.664] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:53:00.666] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:53:00.666] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:54:00.667] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:54:00.667] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:55:00.668] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:55:00.668] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:56:00.670] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:56:00.670] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:57:00.671] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:57:00.671] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:58:00.672] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:58:00.672] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:59:00.673] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T14:59:00.673] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:00:00.675] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:00:00.675] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:01:00.676] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:01:00.676] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:02:00.678] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:02:00.678] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:03:00.679] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:03:00.679] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:04:00.680] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:04:00.680] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:05:00.682] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:05:00.682] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:06:00.683] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:06:00.683] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:07:00.684] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:07:00.684] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:08:00.686] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:08:00.686] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:09:00.687] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:09:00.687] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:10:00.688] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:10:00.688] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:11:00.690] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-27T15:11:00.690] error: gres/gpu: job 49534 dealloc node gpu02 type titanxp gres count underflow (0 1)
+[2022-09-29T09:08:25.149] error: slurm_receive_msgs: [[cpu15.dicc.um.edu.my]:6818] failed: Socket timed out on send/recv operation
+[2022-09-29T09:09:22.714] error: Nodes cpu15 not responding, setting DOWN
+[2022-09-29T17:17:07.406] error: slurm_receive_msgs: [[cpu15.dicc.um.edu.my]:6818] failed: Socket timed out on send/recv operation
+[2022-09-29T17:18:44.850] error: Nodes cpu15 not responding, setting DOWN
+[2022-09-29T19:26:43.982] error: _get_group_members: Could not find configured group training
+[2022-09-30T23:33:30.135] error: slurm_receive_msgs: [[cpu15.dicc.um.edu.my]:6818] failed: Socket timed out on send/recv operation
+[2022-09-30T23:35:57.260] error: Nodes cpu15 not responding
+[2022-09-30T23:36:51.492] error: Nodes cpu15 not responding, setting DOWN
+[2022-10-03T07:45:03.762] error: slurm_receive_msgs: [[cpu15.dicc.um.edu.my]:6818] failed: Socket timed out on send/recv operation
+[2022-10-03T07:45:58.371] error: Nodes cpu15 not responding
+[2022-10-03T07:47:54.746] error: Nodes cpu15 not responding, setting DOWN
+[2022-10-04T15:15:04.907] error: This association 254(account='free', user='ongkuanhung', partition='(null)') does not have access to qos normal
+[2022-10-04T16:40:22.483] error: This association 246(account='free', user='chiuling', partition='(null)') does not have access to qos long
+[2022-10-05T18:41:03.815] error: slurm_receive_msgs: [[cpu15.dicc.um.edu.my]:6818] failed: Socket timed out on send/recv operation
+[2022-10-05T18:44:31.952] error: Nodes cpu15 not responding, setting DOWN
+[2022-10-06T12:50:13.661] error: User 548300548 not found
+[2022-10-06T12:51:54.239] error: User 548300548 not found
+[2022-10-06T12:52:48.957] error: User 548300548 not found
+[2022-10-06T12:53:29.274] error: User 548300548 not found
+[2022-10-06T12:53:37.809] error: User 548300548 not found
+[2022-10-06T12:53:41.946] error: User 548300548 not found
+[2022-10-06T12:54:15.093] error: User 548300548 not found
+[2022-10-06T12:55:17.546] error: User 548300548 not found
+[2022-10-06T12:55:52.524] error: User 548300548 not found
+[2022-10-06T12:56:03.558] error: User 548300548 not found
+[2022-10-06T12:57:27.601] error: User 548300548 not found
+[2022-10-06T12:58:03.663] error: User 548300548 not found
+[2022-10-06T12:58:41.873] error: User 548300548 not found
+[2022-10-06T12:58:54.823] error: User 548300548 not found
+[2022-10-06T12:58:56.684] error: User 548300548 not found
+[2022-10-06T13:17:03.533] error: User 548300548 not found
+[2022-10-06T13:17:04.675] error: User 548300548 not found
+[2022-10-06T13:17:07.495] error: User 548300548 not found
+[2022-10-06T13:26:43.491] error: User 548300548 not found
+[2022-10-06T13:26:49.912] error: User 548300548 not found
+[2022-10-06T13:28:48.126] error: User 548300548 not found
+[2022-10-06T13:29:03.733] error: User 548300548 not found
+[2022-10-06T13:29:20.571] error: User 548300548 not found
+[2022-10-06T13:29:48.890] error: User 548300548 not found
+[2022-10-06T14:46:37.290] error: User 548300548 not found
+[2022-10-06T14:49:49.997] error: User 548300548 not found
+[2022-10-06T14:50:37.544] error: User 548300548 not found
+[2022-10-06T14:52:18.275] error: User 548300548 not found
+[2022-10-06T15:08:20.670] error: User 548300548 not found
+[2022-10-06T15:09:47.331] error: User 548300548 not found
+[2022-10-06T15:11:37.810] error: User 548300548 not found
+[2022-10-06T16:47:22.488] error: This association 222(account='free', user='fairus', partition='(null)') does not have access to qos normal
+[2022-10-06T19:21:58.307] error: User 548300548 not found
+[2022-10-06T19:22:06.965] error: User 548300548 not found
+[2022-10-06T19:27:04.913] error: User 548300548 not found
+[2022-10-06T19:27:51.109] error: User 548300548 not found
+[2022-10-06T19:31:12.154] error: User 548300548 not found
+[2022-10-06T19:32:44.139] error: User 548300548 not found
+[2022-10-06T19:37:06.025] error: User 548300548 not found
+[2022-10-06T19:38:32.001] error: User 548300548 not found
+[2022-10-06T19:38:55.965] error: User 548300548 not found
+[2022-10-06T19:39:39.252] error: User 548300548 not found
+[2022-10-06T21:12:59.658] error: User 548300548 not found
+[2022-10-06T21:13:25.795] error: User 548300548 not found
+[2022-10-06T21:13:32.169] error: User 548300548 not found
+[2022-10-06T21:16:15.061] error: User 548300548 not found
+[2022-10-06T21:17:23.539] error: User 548300548 not found
+[2022-10-06T21:18:21.580] error: User 548300548 not found
+[2022-10-07T10:55:35.907] error: User 548300548 not found
+[2022-10-07T10:55:46.122] error: User 548300548 not found
+[2022-10-07T11:07:47.228] error: User 548300548 not found
+[2022-10-25T00:22:27.618] error: This association 222(account='free', user='fairus', partition='(null)') does not have access to qos normal
+[2022-10-25T00:22:36.242] error: This association 222(account='free', user='fairus', partition='(null)') does not have access to qos normal
+[2022-10-25T13:22:39.308] error: Nodes gpu01 not responding, setting DOWN
+[2022-10-28T23:05:13.300] error: Security violation, REQUEST_KILL_JOB RPC for JobId=51753 from uid 548200021
+[2022-11-04T09:33:22.247] error: This association 258(account='free', user='noraini', partition='(null)') does not have access to qos long
+[2022-11-04T12:13:02.896] error: This association 258(account='free', user='noraini', partition='(null)') does not have access to qos long
+[2022-11-04T12:14:03.240] error: This association 258(account='free', user='noraini', partition='(null)') does not have access to qos long
+[2022-11-04T12:14:13.021] error: This association 258(account='free', user='noraini', partition='(null)') does not have access to qos long
+[2022-11-08T00:02:30.299] error: This association 113(account='free', user='hongvin', partition='(null)') does not have access to qos normal
+[2022-11-08T00:03:11.386] error: This association 113(account='free', user='hongvin', partition='(null)') does not have access to qos normal
+[2022-11-08T00:03:48.988] error: This association 113(account='free', user='hongvin', partition='(null)') does not have access to qos normal
+[2022-11-08T00:05:15.238] error: This association 113(account='free', user='hongvin', partition='(null)') does not have access to qos normal
+[2022-11-08T00:05:21.888] error: This association 113(account='free', user='hongvin', partition='(null)') does not have access to qos normal
+[2022-11-08T00:05:35.900] error: This association 113(account='free', user='hongvin', partition='(null)') does not have access to qos normal
+[2022-11-08T00:06:41.391] error: This association 113(account='free', user='hongvin', partition='(null)') does not have access to qos normal
+[2022-11-08T00:07:58.601] error: This association 113(account='free', user='hongvin', partition='(null)') does not have access to qos normal
+[2022-11-08T11:10:05.949] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos normal
+[2022-11-08T11:13:02.407] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos normal
+[2022-11-08T11:20:26.302] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos normal
+[2022-11-08T11:28:39.185] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos normal
+[2022-11-08T11:28:45.725] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos normal
+[2022-11-08T11:29:30.692] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos long
+[2022-11-08T11:30:23.271] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos normal
+[2022-11-08T11:38:54.287] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos normal
+[2022-11-08T11:41:03.478] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos normal
+[2022-11-08T11:51:34.517] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos normal
+[2022-11-08T11:53:16.788] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos normal
+[2022-11-08T13:56:13.589] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos normal
+[2022-11-08T13:57:17.004] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos normal
+[2022-11-08T13:59:19.281] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos normal
+[2022-11-08T15:52:31.716] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos normal
+[2022-11-08T15:59:25.598] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos normal
+[2022-11-08T16:18:21.876] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos normal
+[2022-11-08T16:25:49.384] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos normal
+[2022-11-08T20:55:20.936] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos normal
+[2022-11-09T11:15:40.044] error: This association 113(account='free', user='hongvin', partition='(null)') does not have access to qos normal
+[2022-11-09T15:50:54.812] error: This association 246(account='free', user='chiuling', partition='(null)') does not have access to qos long
+[2022-11-09T15:52:27.274] error: Invalid qos (normal*)
+[2022-11-10T13:25:28.767] error: Security violation, REQUEST_KILL_JOB RPC for JobId=52223 from uid 548300621
+[2022-11-12T17:31:02.173] error: sched: Attempt to modify priority for JobId=52407
+[2022-11-12T17:32:23.392] error: Security violation, JOB_UPDATE RPC from uid 548200121
+[2022-11-12T17:33:03.228] error: Security violation, JOB_UPDATE RPC from uid 548200121
+[2022-11-12T17:36:13.370] error: SECURITY VIOLATION: Attempt to suspend job from user 548200121
+[2022-11-14T20:29:49.293] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos normal
+[2022-11-14T21:02:31.423] error: This association 242(account='free', user='htt_felicia', partition='(null)') does not have access to qos normal
+[2022-11-16T08:51:03.384] error: _find_node_record: lookup failure for node "cpu02"
+[2022-11-16T08:51:03.384] error: node_name2bitmap: invalid node specified: "cpu02"
+[2022-11-16T08:51:03.384] error: _find_node_record: lookup failure for node "cpu06"
+[2022-11-16T08:51:03.384] error: node_name2bitmap: invalid node specified: "cpu06"
+[2022-11-22T11:25:18.853] error: Security violation, REQUEST_KILL_JOB RPC for JobId=52908 from uid 548300543
+[2022-11-22T11:25:57.809] error: Security violation, REQUEST_KILL_JOB RPC for JobId=52908 from uid 548300543
+[2022-11-26T00:24:39.749] error: Nodes cpu[08,10] not responding, setting DOWN
+[2022-11-26T00:25:59.849] error: Nodes cpu11 not responding, setting DOWN
+[2022-11-26T00:41:19.364] error: Nodes cpu13 not responding
+[2022-11-26T00:41:19.364] error: Nodes cpu13 not responding, setting DOWN
+[2022-11-26T00:42:39.524] error: Nodes cpu14 not responding, setting DOWN
+[2022-11-26T01:40:59.720] error: Nodes cpu13 not responding, setting DOWN
+[2022-11-28T08:27:38.005] error: slurm_msg_sendto: address:port=10.11.132.24:52562 msg_type=8001: No error
+[2022-11-28T08:27:38.005] error: slurmd error running JobId=53186 on node(s)=cpu14: Kill task failed
+[2022-11-28T09:06:19.193] error: Nodes cpu14 not responding
+[2022-11-28T09:06:23.698] error: Nodes cpu14 not responding, setting DOWN
+[2022-11-29T19:45:49.989] error: job_epilog_complete: JobId=53300 epilog error on cpu01, draining the node
+[2022-11-29T19:45:49.989] error: _slurm_rpc_epilog_complete: epilog error JobId=53300 Node=cpu01 Err=Job epilog failed 
+[2022-11-29T19:46:01.163] error: job_epilog_complete: JobId=53193 epilog error on cpu04, draining the node
+[2022-11-29T19:46:01.163] error: _slurm_rpc_epilog_complete: epilog error JobId=53193 Node=cpu04 Err=Job epilog failed 
+[2022-11-29T19:46:19.429] error: job_epilog_complete: JobId=53041 epilog error on gpu01, draining the node
+[2022-11-29T19:46:19.429] error: _slurm_rpc_epilog_complete: epilog error JobId=53041 Node=gpu01 Err=Job epilog failed 
+[2022-11-29T19:46:31.386] error: job_epilog_complete: JobId=52921 epilog error on gpu02, draining the node
+[2022-11-29T19:46:31.386] error: _slurm_rpc_epilog_complete: epilog error JobId=52921 Node=gpu02 Err=Job epilog failed 
+[2022-11-29T19:47:32.122] error: job_epilog_complete: JobId=53138 epilog error on cpu08, draining the node
+[2022-11-29T19:47:32.123] error: _slurm_rpc_epilog_complete: epilog error JobId=53138 Node=cpu08 Err=Job epilog failed 
+[2022-11-29T19:47:38.245] error: job_epilog_complete: JobId=53137 epilog error on cpu07, draining the node
+[2022-11-29T19:47:38.246] error: _slurm_rpc_epilog_complete: epilog error JobId=53137 Node=cpu07 Err=Job epilog failed 
+[2022-11-29T19:47:38.524] error: job_epilog_complete: JobId=53139 epilog error on cpu09, draining the node
+[2022-11-29T19:47:38.525] error: _slurm_rpc_epilog_complete: epilog error JobId=53139 Node=cpu09 Err=Job epilog failed 
+[2022-11-29T19:47:44.409] error: job_epilog_complete: JobId=53136 epilog error on cpu05, draining the node
+[2022-11-29T19:47:44.409] error: _slurm_rpc_epilog_complete: epilog error JobId=53136 Node=cpu05 Err=Job epilog failed 
+[2022-11-29T19:54:12.964] error: job_epilog_complete: JobId=53255 epilog error on cpu15, draining the node
+[2022-11-29T19:54:12.965] error: _slurm_rpc_epilog_complete: epilog error JobId=53255 Node=cpu15 Err=Job epilog failed 
+[2022-11-29T19:54:13.966] error: job_epilog_complete: JobId=53256 epilog error on cpu15, draining the node
+[2022-11-29T19:54:13.966] error: _slurm_rpc_epilog_complete: epilog error JobId=53256 Node=cpu15 Err=Job epilog failed 
+[2022-11-29T19:54:16.928] error: job_epilog_complete: JobId=53199 epilog error on cpu15, draining the node
+[2022-11-29T19:54:16.928] error: _slurm_rpc_epilog_complete: epilog error JobId=53199 Node=cpu15 Err=Job epilog failed 
+[2022-11-29T19:57:06.549] error: job_epilog_complete: JobId=53200 epilog error on cpu11, draining the node
+[2022-11-29T19:57:06.549] error: _slurm_rpc_epilog_complete: epilog error JobId=53200 Node=cpu11 Err=Job epilog failed 
+[2022-11-29T19:57:11.703] error: job_epilog_complete: JobId=53196 epilog error on cpu03, draining the node
+[2022-11-29T19:57:11.703] error: _slurm_rpc_epilog_complete: epilog error JobId=53196 Node=cpu03 Err=Job epilog failed 
+[2022-11-29T19:58:55.096] error: job_epilog_complete: JobId=53115 epilog error on gpu02, draining the node
+[2022-11-29T19:58:55.096] error: _slurm_rpc_epilog_complete: epilog error JobId=53115 Node=gpu02 Err=Job epilog failed 
+[2022-11-29T19:59:14.428] error: job_epilog_complete: JobId=52498 epilog error on gpu05, draining the node
+[2022-11-29T19:59:14.428] error: _slurm_rpc_epilog_complete: epilog error JobId=52498 Node=gpu05 Err=Job epilog failed 
+[2022-11-30T09:32:41.439] error: Nodes cpu11 not responding, setting DOWN
+[2022-11-30T10:30:01.016] error: Nodes cpu11 not responding, setting DOWN
+[2022-12-02T11:56:00.280] error: Node cpu01 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-12-02T11:56:00.281] error: Node cpu03 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-12-02T11:56:00.281] error: Node cpu13 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-12-02T11:56:00.282] error: Node cpu12 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-12-02T11:56:00.282] error: Node cpu11 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-12-02T11:56:00.282] error: Node cpu15 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-12-02T11:56:00.282] error: Node cpu05 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-12-02T11:56:00.283] error: Node cpu09 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-12-02T11:56:00.283] error: Node gpu03 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-12-02T11:56:00.284] error: Node cpu10 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-12-02T11:56:00.284] error: Node gpu05 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-12-02T11:56:00.284] error: Node gpu01 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-12-02T11:56:00.284] error: Node cpu08 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-12-02T11:56:00.284] error: Node cpu07 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-12-02T11:56:00.284] error: Node gpu02 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-12-02T11:56:00.284] error: Node gpu04 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-12-02T11:56:00.287] error: Node cpu04 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-12-02T11:56:00.323] error: Node cpu14 appears to have a different slurm.conf than the slurmctld.  This could cause issues with communication and functionality.  Please review both files and make sure they are the same.  If this is expected ignore, and set DebugFlags=NO_CONF_HASH in your slurm.conf.
+[2022-12-02T12:00:56.646] error: Nodes management01 not responding
+[2022-12-06T13:40:42.571] error: Invalid qos (long;--job-name=JupLab)
+[2022-12-06T13:41:03.056] error: Invalid qos (long,--job-name=Jup)
+[2022-12-16T02:23:11.814] error: slurm_receive_msgs: [[gpu05.dicc.um.edu.my]:6818] failed: Socket timed out on send/recv operation
+[2022-12-16T02:23:31.832] error: slurm_receive_msgs: [[gpu05.dicc.um.edu.my]:6818] failed: Socket timed out on send/recv operation
+[2022-12-16T02:23:41.855] error: Nodes gpu05 not responding, setting DOWN
+[2022-12-16T02:23:51.858] error: slurm_receive_msgs: [[gpu05.dicc.um.edu.my]:6818] failed: Socket timed out on send/recv operation
+[2022-12-16T02:26:09.250] error: Registered PENDING JobId=53962 StepId=53962.extern on node gpu05
+[2022-12-16T02:26:09.250] error: Registered PENDING JobId=53962 StepId=53962.batch on node gpu05
